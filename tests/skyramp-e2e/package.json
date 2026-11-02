@@ -1,0 +1,19 @@
+{
+  "name": "skyramp-e2e",
+  "private": true,
+  "description": "Skyramp Testbot test package: Testbot owns and maintains everything in this folder. Run its tests with ./run.sh.",
+  "skyrampTestbot": {
+    "schemaVersion": 1,
+    "runner": "playwright"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.61.1",
+    "@skyramp/skyramp": "1.3.52"
+  }
+}
