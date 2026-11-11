@@ -92,3 +92,4 @@ curl -s -X POST http://localhost:3000/api/items \
   -H 'Content-Type: application/json' -d '{"name":"First item"}'
 curl -s http://localhost:3000/api/items
 ```
+Staging check for UC-07.2
