@@ -2,6 +2,8 @@
 
 A small Node.js (Express) + PostgreSQL web app used as a target for end-to-end testing.
 
+### Editor check for UC-09.8
+
 ## What's inside
 
 | Path | Description |
